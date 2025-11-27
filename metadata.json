@@ -1,0 +1,8 @@
+{
+  "name": "LingoLens AI",
+  "description": "A real-time visual language tutor. Point your camera at anything, and the AI will teach you the vocabulary in your target language instantly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
